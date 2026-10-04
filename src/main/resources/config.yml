@@ -1,0 +1,6 @@
+# Messaggio mostrato al giocatore che esegue /ping
+# Placeholder: %ping%, %player%
+ping-message: "&aIl tuo ping e di &e%ping%ms&a."
+
+# Messaggio mostrato allo staff dopo /reload
+reload-message: "&aConfigurazione di FancyPing ricaricata!"
